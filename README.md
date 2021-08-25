@@ -21,7 +21,7 @@ So this is not the end of the maze generator. I have a lot planned.
 - I would like to have an interface with user input so they can toggle on the visualiser or click so that the maze can be solved
 - 
 
-### Small Life Improvements 
+### Small Life Improvements that I need to do
 - Adjust the maze cell size so that it fits the window
 - Make it easier for the user to change height and width
 
