@@ -1,6 +1,5 @@
 # Maze-Generation
-This is my progress on a maze generation project. This started out being a Lab that I never completed during my module. In the summer after spending mindless hours gaming.
-I thought hey, lets try some of the Labs I didn't get time to complete during term time. This Lab has evolved to my own project that focuses on the generation and solving of mazes.
+This is my progress on a maze generation project. This started out being a Lab that I never completed during my module. This Lab has evolved to my own project that focuses on the generation and solving of mazes.
 This is using Java and Java Swing for the visualisation.
 
 I have so far implemented Depth-First-Search Backtracking. It generates a maze (Which so far hasn't quite been adjusted so that it fits the window) --> Another thing to implement
